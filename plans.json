@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-09T22:48:26Z",
+  "last_updated": "2025-07-09T22:50:12Z",
   "plans": [
     {
       "id": 1,
@@ -24,6 +24,19 @@
       "data": "10G",
       "unlimitedOption": "무제한 속도 (1M)",
       "price": 19900,
+      "description": "",
+      "link": ""
+    },
+    {
+      "id": 3,
+      "name": "알뜰19",
+      "alldelCompany": "이야기",
+      "networkProvider": "KT",
+      "voice": "100",
+      "sms": "100",
+      "data": "5",
+      "unlimitedOption": "없음",
+      "price": 1990,
       "description": "",
       "link": ""
     }
