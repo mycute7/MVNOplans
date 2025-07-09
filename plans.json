@@ -1,16 +1,16 @@
 {
-  "last_updated": "2025-07-09T02:21:58Z",
+  "last_updated": "2025-07-09T22:30:00Z",
   "plans": [
     {
       "id": 1,
       "name": "테스트",
-      "alldelCompany": "",
-      "networkProvider": "",
-      "voice": "",
-      "sms": "",
-      "data": "",
-      "unlimitedOption": "",
-      "price": null,
+      "alldelCompany": "freeT 프리티",
+      "networkProvider": "SKT",
+      "voice": "100",
+      "sms": "100",
+      "data": "1",
+      "unlimitedOption": "없음",
+      "price": 1900,
       "description": "",
       "link": ""
     }
