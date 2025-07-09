@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-09T22:50:12Z",
+  "last_updated": "2025-07-09T22:55:34Z",
   "plans": [
     {
       "id": 1,
@@ -8,7 +8,7 @@
       "networkProvider": "SKT",
       "voice": "100",
       "sms": "100",
-      "data": "1",
+      "data": "1.5",
       "unlimitedOption": "없음",
       "price": 1900,
       "description": "",
