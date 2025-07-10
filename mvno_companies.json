@@ -1,57 +1,70 @@
 {
-  "last_updated": "2025-07-09T07:22:00Z",
+  "last_updated": "2025-07-10T03:42:29Z",
   "companies": [
     {
       "id": 1,
-      "name": "freeT 프리티"
+      "name": "freeT 프리티",
+      "homepage": "https://www.freet.co.kr/"
     },
     {
       "id": 2,
-      "name": "모빙"
+      "name": "모빙",
+      "homepage": "https://www.mobing.co.kr/"
     },
     {
       "id": 3,
-      "name": "이야기"
+      "name": "이야기",
+      "homepage": "https://www.eyagi.co.kr/"
     },
     {
       "id": 4,
-      "name": "아이즈"
+      "name": "아이즈",
+      "homepage": "https://eyes.co.kr/"
     },
     {
       "id": 5,
-      "name": "스마텔"
+      "name": "스마텔",
+      "homepage": "https://smartel.kr/"
     },
     {
       "id": 6,
-      "name": "A모바일"
+      "name": "A모바일(에넥스)",
+      "homepage": "https://www.annextele.com/"
     },
     {
       "id": 7,
-      "name": "KT M모바일"
+      "name": "KT M모바일",
+      "homepage": "https://www.ktmmobile.com/"
     },
     {
       "id": 8,
-      "name": "유모비"
+      "name": "유모비",
+      "homepage": "https://www.uplusumobile.com/"
     },
     {
       "id": 9,
-      "name": "헬로모바일"
+      "name": "헬로모바일",
+      "homepage": "https://direct.lghellovision.net/"
     },
     {
       "id": 10,
-      "name": "Tplus 티플러스"
+      "name": "Tplus 티플러스",
+      "homepage": "https://www.tplusmobile.com/"
     },
     {
       "id": 11,
-      "name": "S1안심모바일"
+      "name": "S1안심모바일",
+      "homepage": "http://www.s1mobile.co.kr"
     },
     {
       "id": 12,
-      "name": "이지(코드)모바일"
+      "name": "이지(코드)모바일",
+      "homepage": "https://www.egmobile.co.kr/"
     },
     {
       "id": 13,
-      "name": "KT 스카이라이프"
+      "name": "KT 스카이라이프",
+      "homepage": "https://www.skylife.co.kr/product/mobile/all"
     }
   ]
 }
