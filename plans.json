@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-11T05:00:10Z",
+  "last_updated": "2025-07-11T05:10:05Z",
   "plans": [
     {
       "id": 1,
@@ -40,10 +40,13 @@
       "networkProvider": "KT",
       "voice": "100",
       "sms": "100",
-      "data": "5",
+      "dataValue": "3",
+      "dataUnit": "GB",
       "unlimitedOption": "없음",
-      "price": 1990,
-      "description": "",
+      "discountedPrice": 3900,
+      "regularPrice": 9900,
+      "discountPeriodMonths": 24,
+      "description": "표준요금제",
       "link": ""
     }
   ]
