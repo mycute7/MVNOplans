@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-09T22:55:34Z",
+  "last_updated": "2025-07-11T05:00:10Z",
   "plans": [
     {
       "id": 1,
@@ -8,9 +8,12 @@
       "networkProvider": "SKT",
       "voice": "100",
       "sms": "100",
-      "data": "1.5",
+      "dataValue": "1",
+      "dataUnit": "GB",
       "unlimitedOption": "없음",
-      "price": 1900,
+      "discountedPrice": 1500,
+      "regularPrice": null,
+      "discountPeriodMonths": 5,
       "description": "",
       "link": ""
     },
@@ -21,9 +24,12 @@
       "networkProvider": "U+",
       "voice": "기본제공",
       "sms": "기본제공",
-      "data": "10G",
+      "dataValue": "2",
+      "dataUnit": "GB",
       "unlimitedOption": "무제한 속도 (1M)",
-      "price": 19900,
+      "discountedPrice": 4900,
+      "regularPrice": 13990,
+      "discountPeriodMonths": 7,
       "description": "",
       "link": ""
     },
